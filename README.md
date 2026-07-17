@@ -133,7 +133,7 @@ const trisno = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebytrisno&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=codebytrisno&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
