@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Trisno+Sanjaya;Full+Stack+Web+Developer;AI-Driven+Development+Enthusiast;Open+for+Freelance+%26+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Trisno+Sanjaya;Full+Stack+Web+Developer;AI-Driven+Development+Enthusiast;Open+for+Freelance+%26+Projects" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <p align="center">
-  <a href="https://codebytrisno.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/trisno-sanjaya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:email.trisno.sanjaya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/codebytrisno"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codebytrisno.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
+  <a href="https://linkedin.com/in/trisno-sanjaya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
+  <a href="mailto:email.trisno.sanjaya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
+  <a href="https://github.com/codebytrisno"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/></a>
 </p>
 
 ---
@@ -49,6 +51,55 @@ const trisno = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebytrisno/codebytrisno/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebytrisno/codebytrisno/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/codebytrisno/codebytrisno/output/github-snake.svg" />
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=codebytrisno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=codebytrisno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codebytrisno&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcodebytrisno%2Fcodebytrisno%2Frefs%2Fheads%2Fmain%2Ftoday-commits.json&style=flat-square" alt="Today's Commits" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WakaTime_Active-6C63FF?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime" />
+</p>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [FinansialKu v1.2.0](https://github.com/codebytrisno/finansialku/releases/tag/v1.2.0) in [codebytrisno/finansialku](https://github.com/codebytrisno/finansialku)
+2. 🚀 Published release [v1.1.0](https://github.com/codebytrisno/celengin/releases/tag/v1.1.0) in [codebytrisno/celengin](https://github.com/codebytrisno/celengin)
+3. 🚀 Published release [v1.0.0](https://github.com/codebytrisno/celengin/releases/tag/v1.0.0) in [codebytrisno/celengin](https://github.com/codebytrisno/celengin)
+<!--END_SECTION:activity-->
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=codebytrisno&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -109,56 +160,7 @@ const trisno = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=codebytrisno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=codebytrisno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codebytrisno&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcodebytrisno%2Fcodebytrisno%2Frefs%2Fheads%2Fmain%2Ftoday-commits.json&style=flat-square" alt="Today's Commits" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WakaTime_Active-6C63FF?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=codebytrisno&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [FinansialKu v1.2.0](https://github.com/codebytrisno/finansialku/releases/tag/v1.2.0) in [codebytrisno/finansialku](https://github.com/codebytrisno/finansialku)
-2. 🚀 Published release [v1.1.0](https://github.com/codebytrisno/celengin/releases/tag/v1.1.0) in [codebytrisno/celengin](https://github.com/codebytrisno/celengin)
-3. 🚀 Published release [v1.0.0](https://github.com/codebytrisno/celengin/releases/tag/v1.0.0) in [codebytrisno/celengin](https://github.com/codebytrisno/celengin)
-<!--END_SECTION:activity-->
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebytrisno/codebytrisno/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebytrisno/codebytrisno/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/codebytrisno/codebytrisno/output/github-snake.svg" />
-</picture>
-
----
-
-## 💬 Random Dev Quote
+## 💬 Kutipan Developer
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
