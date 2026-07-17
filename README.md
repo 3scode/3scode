@@ -125,7 +125,7 @@ const trisno = {
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://img.shields.io/badge/WakaTime_Inactive-6C63FF?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
+  <img src="https://img.shields.io/badge/WakaTime_Active-6C63FF?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime" />
 </p>
 
 ---
