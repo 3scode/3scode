@@ -1,0 +1,39 @@
+name: Update Today's Commits
+
+"on":
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch today's commits count
+        id: fetch
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          RESPONSE=$(curl -s \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/search/commits?q=user:codebytrisno+committer-date:${TODAY}")
+          COUNT=$(echo "$RESPONSE" | jq '.total_count // 0')
+          echo "count=${COUNT}" >> "$GITHUB_OUTPUT"
+
+      - name: Update badge JSON file
+        run: |
+          python3 -c "import json; d={'schemaVersion':1,'label':\"Today's Commits\",'message':'${{ steps.fetch.outputs.count }}','color':'6C63FF','logo':'github','logoColor':'white'}; json.dump(d,open('today-commits.json','w'),indent=2); print('Badge updated to', '${{ steps.fetch.outputs.count }}')"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add today-commits.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update today's commits count"
+            git push
+          fi

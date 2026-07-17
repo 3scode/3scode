@@ -120,6 +120,10 @@ const trisno = {
   <img src="https://streak-stats.demolab.com?user=codebytrisno&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcodebytrisno%2Fprofile-codebytrisno%2Fmain%2Ftoday-commits.json&style=flat-square" alt="Today's Commits" />
+</p>
+
 ---
 
 ## 🌐 Let's Connect
