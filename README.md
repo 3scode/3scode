@@ -87,16 +87,6 @@ const trisno = {
 
 ---
 
-## 🎨 Contribution Data
-
-<p align="center">
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="https://github-profile-3d-contrib.vercel.app/user/codebytrisno/workspace-dark-blue.svg" alt="3D Contrib" width="700" />
-  </a>
-</p>
-
----
-
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
