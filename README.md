@@ -52,18 +52,21 @@ const trisno = {
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
----
+## 📈 Recent Activity
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codebytrisno&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codebytrisno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebytrisno&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
+1. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
+2. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
+3. 🚀 Pushed 0 commit in [3scode/time-blocking](https://github.com/3scode/time-blocking)
+4. 🚀 Pushed 0 commit in [3scode/tekajeoneofficial](https://github.com/3scode/tekajeoneofficial)
+5. 🚀 Pushed 0 commit in [3scode/cli-ytdownloader](https://github.com/3scode/cli-ytdownloader)
+6. 🚀 Pushed 0 commit in [3scode/youtube-sentiment-analyzer](https://github.com/3scode/youtube-sentiment-analyzer)
+7. 🌿 Created branch `main` in [3scode/youtube-sentiment-analyzer](https://github.com/3scode/youtube-sentiment-analyzer)
+8. 🚀 Pushed 0 commit in [3scode/cekuserff](https://github.com/3scode/cekuserff)
+9. 🌿 Created branch `main` in [3scode/3scode](https://github.com/3scode/3scode)
+10. 🌿 Created branch `master` in [3scode/cekuserff](https://github.com/3scode/cekuserff)
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
@@ -105,24 +108,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 23/07/2026 19:56:06 UTC
 <!--END_SECTION:waka-->
-
----
-
-## 📈 Recent Activity
-
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
-2. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
-3. 🚀 Pushed 0 commit in [3scode/time-blocking](https://github.com/3scode/time-blocking)
-4. 🚀 Pushed 0 commit in [3scode/tekajeoneofficial](https://github.com/3scode/tekajeoneofficial)
-5. 🚀 Pushed 0 commit in [3scode/cli-ytdownloader](https://github.com/3scode/cli-ytdownloader)
-6. 🚀 Pushed 0 commit in [3scode/youtube-sentiment-analyzer](https://github.com/3scode/youtube-sentiment-analyzer)
-7. 🌿 Created branch `main` in [3scode/youtube-sentiment-analyzer](https://github.com/3scode/youtube-sentiment-analyzer)
-8. 🚀 Pushed 0 commit in [3scode/cekuserff](https://github.com/3scode/cekuserff)
-9. 🌿 Created branch `main` in [3scode/3scode](https://github.com/3scode/3scode)
-10. 🌿 Created branch `master` in [3scode/cekuserff](https://github.com/3scode/cekuserff)
-<!--RECENT_ACTIVITY:end-->
 
 ---
 
