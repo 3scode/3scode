@@ -93,6 +93,8 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2017%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-266.95%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -122,26 +124,26 @@ Sunday                   39 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               22 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   38.96 % 
-Markdown                 9 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Other                    4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Smali                    4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-YAML                     3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+TypeScript               24 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   38.38 % 
+Markdown                 12 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Other                    4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Smali                    4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+YAML                     3 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-OpenCode                 35 hrs 5 mins       ███████████████░░░░░░░░░░   61.36 % 
-Zed                      22 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+OpenCode                 38 hrs 37 mins      ███████████████░░░░░░░░░░   61.03 % 
+Zed                      24 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.93 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-kyy-topup                12 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-kyy-op-mod               10 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-portofolio               6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-kyytopup                 5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-app-goelf                4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+kyy-topup                12 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+kyy-op-mod               10 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+portofolio               7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+kyytopup                 5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+time-blocking            4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 💻 Operating System: 
-WSL                      57 hrs 11 mins      █████████████████████████   100.00 % 
+WSL                      63 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +161,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 17:07:14 UTC
+ Last Updated on 24/07/2026 20:26:53 UTC
 <!--END_SECTION:waka-->
 
 ---
