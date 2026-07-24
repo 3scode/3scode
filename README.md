@@ -90,6 +90,13 @@ const trisno = {
 
 ---
 
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+_Loading..._
+<!--END_SECTION:waka-->
+
+---
 
 ## 🏆 GitHub Trophies
 
