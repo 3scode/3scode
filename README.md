@@ -93,7 +93,87 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-_Loading..._
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2014%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-266.84%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 107.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 166 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                75 commits          ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+🌆 Daytime                61 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌃 Evening                74 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌙 Night                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Friday                   56 commits          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Saturday                 54 commits          █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Sunday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               22 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   38.96 % 
+Markdown                 9 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Other                    4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Smali                    4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+YAML                     3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+
+🔥 Editors: 
+OpenCode                 35 hrs 5 mins       ███████████████░░░░░░░░░░   61.36 % 
+Zed                      22 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🐱‍💻 Projects: 
+kyy-topup                12 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+kyy-op-mod               10 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+portofolio               6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+kyytopup                 5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+app-goelf                4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+
+💻 Operating System: 
+WSL                      57 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               12 repos            █████████████████░░░░░░░░   66.67 % 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/07/2026 04:08:15 UTC
 <!--END_SECTION:waka-->
 
 ---
