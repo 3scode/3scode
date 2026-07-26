@@ -63,7 +63,6 @@ const trisno = {
 5. 🚀 Pushed 0 commit in [3scode/iqc-generator](https://github.com/3scode/iqc-generator)
 6. 🌿 Created branch `main` in [3scode/iqc-generator](https://github.com/3scode/iqc-generator)
 7. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
-8. 🚀 Pushed 0 commit in [3scode/tekajeoneofficial](https://github.com/3scode/tekajeoneofficial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
