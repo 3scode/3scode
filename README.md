@@ -56,8 +56,8 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
-2. 🚀 Pushed 0 commit in [3scode/finansialku](https://github.com/3scode/finansialku)
+1. 🚀 Pushed 0 commit in [3scode/finansialku](https://github.com/3scode/finansialku)
+2. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
 3. 🚀 Published release [v1.1.3](https://github.com/3scode/finansialku/releases/tag/v1.1.3) in [3scode/finansialku](https://github.com/3scode/finansialku)
 4. 🚀 Pushed 0 commit in [3scode/time-blocking](https://github.com/3scode/time-blocking)
 5. 🚀 Pushed 0 commit in [3scode/iqc-generator](https://github.com/3scode/iqc-generator)
