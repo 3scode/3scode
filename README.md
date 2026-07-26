@@ -91,28 +91,28 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-275.80%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277.84%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         █████████░░░░░░░░░░░░░░░░   34.44 % 
-🌆 Daytime                69 commits          ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-🌃 Evening                82 commits          ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌞 Morning                104 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
+🌆 Daytime                77 commits          ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌃 Evening                82 commits          ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Friday                   68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Saturday                 62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Sunday                   68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Friday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Saturday                 62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Sunday                   76 commits          ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
 ```
 
 
@@ -147,9 +147,8 @@ WSL                      58 hrs 25 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            █████████████████░░░░░░░░   68.42 % 
+TypeScript               14 repos            ██████████████████░░░░░░░   73.68 % 
 Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -159,7 +158,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 04:59:00 UTC
+ Last Updated on 26/07/2026 07:42:33 UTC
 <!--END_SECTION:waka-->
 
 ---
