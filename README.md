@@ -89,30 +89,30 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331.01%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331.93%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                139 commits         ████████░░░░░░░░░░░░░░░░░   32.03 % 
-🌆 Daytime                124 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌃 Evening                99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌙 Night                  72 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+🌞 Morning                139 commits         ████████░░░░░░░░░░░░░░░░░   31.95 % 
+🌆 Daytime                124 commits         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+🌃 Evening                99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+🌙 Night                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Wednesday                89 commits          █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Friday                   103 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Saturday                 62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Friday                   103 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Saturday                 62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 ```
 
 
@@ -122,51 +122,51 @@ Sunday                   85 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               33 hrs 29 mins      █████████████░░░░░░░░░░░░   53.40 % 
-Markdown                 9 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-JSON                     3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other                    2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-YAML                     2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+TypeScript               31 hrs 39 mins      ██████████████░░░░░░░░░░░   55.85 % 
+Markdown                 7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+JSON                     2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+YAML                     2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-OpenCode                 45 hrs 12 mins      ██████████████████░░░░░░░   72.09 % 
-Zed                      17 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+OpenCode                 44 hrs 20 mins      ████████████████████░░░░░   78.22 % 
+Zed                      12 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
 
 🐱‍💻 Projects: 
-kyytopup                 20 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
-kyy-topup                8 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-finansialku              5 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-time-blocking            4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-IQCGenerator             3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+kyytopup                 20 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   36.94 % 
+time-blocking            9 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+finansialku              5 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+IQCGenerator             3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+tekajeoneofficial        3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-WSL                      62 hrs 42 mins      █████████████████████████   100.00 % 
+WSL                      56 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 60 hrs 14 mins (96.07%)
+⏱ AI Coding Time: 54 hrs 29 mins (96.11%)
 
-✍️ 22,071 lines written by AI, 11 lines written by hand (99.95% AI-written)
+✍️ 21,200 lines written by AI, 11 lines written by hand (99.95% AI-written)
 
-🔤 22,762,883 Input Tokens, 863,483 Output Tokens
+🔤 19,907,453 Input Tokens, 803,043 Output Tokens
 
-💵 $67.47 Estimated AI Cost This Week
+💵 $58.89 Estimated AI Cost This Week
 
-🧠 112 AI Sessions, 1011 AI Prompts
+🧠 93 AI Sessions, 892 AI Prompts
 
-Deepseek                 18,242 lines        █████████████████████░░░░   84.58 % 
-Opencode-Cli             2,581 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Ling                     664 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Nemotron                 82 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Deepseek                 17,814 lines        ██████████████████████░░░   86.39 % 
+Opencode-Cli             2,058 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Ling                     667 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Nemotron                 82 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 Oss                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
 📄 Detailed Prompter — average 559 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.18% of changed lines were hand-edited
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 1.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +183,7 @@ Python                   5 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:15:46 UTC
+ Last Updated on 28/07/2026 21:39:35 UTC
 <!--END_SECTION:waka-->
 
 ---
