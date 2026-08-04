@@ -120,49 +120,49 @@ Sunday                   97 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               44 hrs 29 mins      ███████████████████░░░░░░   74.79 % 
-Markdown                 8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Prisma                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-SQL                      1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               42 hrs 40 mins      ███████████████████░░░░░░   76.40 % 
+Markdown                 8 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Prisma                   57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+SQL                      43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-OpenCode                 48 hrs 2 mins       ████████████████████░░░░░   80.77 % 
-Zed                      11 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+OpenCode                 44 hrs 50 mins      ████████████████████░░░░░   80.27 % 
+Zed                      11 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
 
 🐱‍💻 Projects: 
-kyytopup                 47 hrs 49 mins      ████████████████████░░░░░   80.39 % 
-time-blocking            4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-goelf                    3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-focus                    3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Unknown Project          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+kyytopup                 42 hrs 32 mins      ███████████████████░░░░░░   76.17 % 
+goelf                    5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+time-blocking            4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+focus                    3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-WSL                      59 hrs 29 mins      █████████████████████████   100.00 % 
+WSL                      55 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 41 mins (95.28%)
+⏱ AI Coding Time: 53 hrs 22 mins (95.54%)
 
-✍️ 29,164 lines written by AI, 183 lines written by hand (99.38% AI-written)
+✍️ 28,080 lines written by AI, 189 lines written by hand (99.33% AI-written)
 
-🔤 16,331,027 Input Tokens, 969,573 Output Tokens
+🔤 15,548,597 Input Tokens, 851,444 Output Tokens
 
-💵 $51.17 Estimated AI Cost This Week
+💵 $47.82 Estimated AI Cost This Week
 
-🧠 93 AI Sessions, 891 AI Prompts
+🧠 75 AI Sessions, 808 AI Prompts
 
-Deepseek                 24,919 lines        ███████████████████████░░   93.56 % 
-Opencode-Cli             1,590 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Ling                     124 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Deepseek                 24,297 lines        ████████████████████████░   94.28 % 
+Opencode-Cli             1,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Ling                     94 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📄 Detailed Prompter — average 1,292 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🤖 AI-Driven — 99.33% of written lines came from AI
+📄 Detailed Prompter — average 1,496 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,7 +179,7 @@ Python                   5 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 16:03:30 UTC
+ Last Updated on 04/08/2026 00:59:59 UTC
 <!--END_SECTION:waka-->
 
 ---
