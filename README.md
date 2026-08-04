@@ -87,9 +87,9 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-414.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,49 +120,49 @@ Sunday                   97 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               42 hrs 40 mins      ███████████████████░░░░░░   76.40 % 
-Markdown                 8 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Prisma                   57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-SQL                      43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               43 hrs 33 mins      ██████████████████░░░░░░░   72.62 % 
+Markdown                 11 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Prisma                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+SQL                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-OpenCode                 44 hrs 50 mins      ████████████████████░░░░░   80.27 % 
-Zed                      11 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+OpenCode                 47 hrs 36 mins      ████████████████████░░░░░   79.40 % 
+Zed                      12 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
 
 🐱‍💻 Projects: 
-kyytopup                 42 hrs 32 mins      ███████████████████░░░░░░   76.17 % 
-goelf                    5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-time-blocking            4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-focus                    3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+kyytopup                 50 hrs 14 mins      █████████████████████░░░░   83.79 % 
+goelf                    5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+focus                    3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+codebytrisno             38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Unknown Project          28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-WSL                      55 hrs 51 mins      █████████████████████████   100.00 % 
+WSL                      59 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 22 mins (95.54%)
+⏱ AI Coding Time: 56 hrs 59 mins (95.03%)
 
-✍️ 28,080 lines written by AI, 189 lines written by hand (99.33% AI-written)
+✍️ 29,096 lines written by AI, 201 lines written by hand (99.31% AI-written)
 
-🔤 15,548,597 Input Tokens, 851,444 Output Tokens
+🔤 19,911,002 Input Tokens, 874,105 Output Tokens
 
-💵 $47.82 Estimated AI Cost This Week
+💵 $57.52 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 808 AI Prompts
+🧠 77 AI Sessions, 854 AI Prompts
 
-Deepseek                 24,297 lines        ████████████████████████░   94.28 % 
-Opencode-Cli             1,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Ling                     94 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Deepseek                 25,164 lines        ████████████████████████░   94.56 % 
+Opencode-Cli             1,358 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Ling                     91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.33% of written lines came from AI
-📄 Detailed Prompter — average 1,496 characters per prompt
+🤖 AI-Driven — 99.31% of written lines came from AI
+📚 Verbose Prompter — average 1,864 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -180,7 +180,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 15:03:00 UTC
+ Last Updated on 04/08/2026 19:08:13 UTC
 <!--END_SECTION:waka-->
 
 ---
