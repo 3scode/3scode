@@ -84,83 +84,11 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-458.54%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                191 commits         ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌆 Daytime                171 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌃 Evening                134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-🌙 Night                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Tuesday                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Wednesday                114 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Friday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Sunday                   97 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               36 hrs 43 mins      ██████████████░░░░░░░░░░░   57.68 % 
-Markdown                 16 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-SQL                      3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-JSON                     1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Python                   1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-🔥 Editors: 
-OpenCode                 33 hrs 52 mins      █████████████░░░░░░░░░░░░   53.20 % 
-Zed                      29 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.80 % 
-
-🐱‍💻 Projects: 
-kyytopup                 32 hrs 17 mins      █████████████░░░░░░░░░░░░   50.73 % 
-app-goelf                23 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   36.94 % 
-goelf                    5 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Unknown Project          47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-codebytrisno             38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-
-💻 Operating System: 
-WSL                      63 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 59 hrs 39 mins (93.72%)
-
-✍️ 39,449 lines written by AI, 239 lines written by hand (99.4% AI-written)
-
-🔤 21,022,345 Input Tokens, 1,027,903 Output Tokens
-
-💵 $69.75 Estimated AI Cost This Week
-
-🧠 59 AI Sessions, 651 AI Prompts
-
-Deepseek                 36,777 lines        ████████████████████████░   97.79 % 
-Opencode-Cli             824 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Ling                     7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📚 Verbose Prompter — average 2,165 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -177,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 17:31:47 UTC
+ Last Updated on 08/08/2026 18:39:05 UTC
 <!--END_SECTION:waka-->
 
 ---
