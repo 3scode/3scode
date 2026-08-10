@@ -56,8 +56,8 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
-2. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
+1. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
+2. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
 3. 🌿 Created branch `main` in [3scode/my-mcp-opencode](https://github.com/3scode/my-mcp-opencode)
 <!--RECENT_ACTIVITY:end-->
 
