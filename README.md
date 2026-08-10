@@ -120,49 +120,49 @@ Sunday                   100 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               23 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.04 % 
-Markdown                 17 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   30.79 % 
-JSON                     4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-SQL                      4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Python                   1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               19 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
+Markdown                 16 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.79 % 
+SQL                      4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+JSON                     4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Zed                      37 hrs 1 min        ████████████████░░░░░░░░░   64.97 % 
-OpenCode                 19 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   35.03 % 
+Zed                      34 hrs 16 mins      █████████████████░░░░░░░░   68.64 % 
+OpenCode                 15 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   31.36 % 
 
 🐱‍💻 Projects: 
-app-goelf                29 hrs 11 mins      █████████████░░░░░░░░░░░░   51.23 % 
-kyytopup                 15 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-goelf                    8 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-3scode                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Unknown Project          51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+app-goelf                29 hrs 11 mins      ███████████████░░░░░░░░░░   58.47 % 
+kyytopup                 10 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+goelf                    6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+3scode                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Unknown Project          51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-WSL                      56 hrs 59 mins      █████████████████████████   100.00 % 
+WSL                      49 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 19 mins (93.58%)
+⏱ AI Coding Time: 46 hrs 35 mins (93.32%)
 
-✍️ 28,923 lines written by AI, 120 lines written by hand (99.59% AI-written)
+✍️ 27,898 lines written by AI, 114 lines written by hand (99.59% AI-written)
 
-🔤 26,063,378 Input Tokens, 946,044 Output Tokens
+🔤 24,135,735 Input Tokens, 885,324 Output Tokens
 
-💵 $112.94 Estimated AI Cost This Week
+💵 $107.11 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 516 AI Prompts
+🧠 54 AI Sessions, 422 AI Prompts
 
-Deepseek                 28,169 lines        █████████████████████████   98.58 % 
-Opencode-Cli             404 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Deepseek                 27,297 lines        █████████████████████████   98.91 % 
+Opencode-Cli             300 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 S                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 2,495 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.89% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,725 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -180,7 +180,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 16:01:00 UTC
+ Last Updated on 10/08/2026 18:24:51 UTC
 <!--END_SECTION:waka-->
 
 ---
