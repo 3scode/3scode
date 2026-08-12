@@ -91,26 +91,26 @@ const trisno = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.22%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.10%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                171 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌆 Daytime                154 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌃 Evening                129 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌞 Morning                174 commits         ████████░░░░░░░░░░░░░░░░░   31.41 % 
+🌆 Daytime                165 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+🌃 Evening                129 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Wednesday                98 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Thursday                 31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Sunday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Wednesday                100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Thursday                 31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Sunday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
 
@@ -170,9 +170,10 @@ S                        1 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ████████████████░░░░░░░░░   65.00 % 
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               13 repos            ███████████████░░░░░░░░░░   59.09 % 
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -182,7 +183,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 23:41:58 UTC
+ Last Updated on 12/08/2026 02:02:24 UTC
 <!--END_SECTION:waka-->
 
 ---
