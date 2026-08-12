@@ -121,51 +121,51 @@ Sunday                   112 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               20 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   41.06 % 
-Markdown                 14 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-JSON                     4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-SQL                      4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+TypeScript               17 hrs              ███████████░░░░░░░░░░░░░░   42.14 % 
+Markdown                 11 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+JSON                     4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+SQL                      3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Zed                      40 hrs 32 mins      ████████████████████░░░░░   79.94 % 
-OpenCode                 10 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Zed                      33 hrs 6 mins       █████████████████████░░░░   82.06 % 
+OpenCode                 7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
 
 🐱‍💻 Projects: 
-app-goelf                29 hrs 11 mins      ██████████████░░░░░░░░░░░   57.57 % 
-portofolio               8 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-goelf                    6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-kyytopup                 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-3scode                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+app-goelf                22 hrs 54 mins      ██████████████░░░░░░░░░░░   56.79 % 
+portofolio               8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+goelf                    6 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+3scode                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+kyyff-injector           36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-WSL                      41 hrs 28 mins      ████████████████████░░░░░   81.78 % 
-Linux                    9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+WSL                      31 hrs 6 mins       ███████████████████░░░░░░   77.10 % 
+Linux                    9 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 48 mins (94.29%)
+⏱ AI Coding Time: 38 hrs 1 min (94.26%)
 
-✍️ 27,361 lines written by AI, 102 lines written by hand (99.63% AI-written)
+✍️ 17,225 lines written by AI, 102 lines written by hand (99.41% AI-written)
 
-🔤 23,293,857 Input Tokens, 1,070,072 Output Tokens
+🔤 21,417,294 Input Tokens, 914,879 Output Tokens
 
-💵 $280.05 Estimated AI Cost This Week
+💵 $272.53 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 414 AI Prompts
+🧠 33 AI Sessions, 312 AI Prompts
 
-Deepseek                 27,333 lines        █████████████████████████   99.02 % 
-Opencode-Cli             252 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Nemotron                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-S                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 17,315 lines        █████████████████████████   98.66 % 
+Opencode-Cli             217 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Nemotron                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+S                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 1,942 characters per prompt
+🤖 AI-Driven — 99.41% of written lines came from AI
+📚 Verbose Prompter — average 2,015 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.86% of changed lines were hand-edited
+🚀 High AI Trust — 1.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -184,7 +184,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 13:11:59 UTC
+ Last Updated on 12/08/2026 19:39:27 UTC
 <!--END_SECTION:waka-->
 
 ---
