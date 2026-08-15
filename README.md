@@ -88,87 +88,11 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.10%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                176 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌆 Daytime                165 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-🌃 Evening                130 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Wednesday                101 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Thursday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Sunday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               10 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Markdown                 7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-JSON                     4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Dart                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-GDScript3                2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-
-🔥 Editors: 
-Zed                      30 hrs 43 mins      ███████████████████████░░   90.01 % 
-OpenCode                 3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-CLI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-
-🐱‍💻 Projects: 
-kyyff-injector           13 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   40.59 % 
-portofolio               10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-goelf                    6 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-3scode                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-app-goelf                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-
-💻 Operating System: 
-Linux                    24 hrs 27 mins      ██████████████████░░░░░░░   71.66 % 
-WSL                      9 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 28 hrs 34 mins (83.7%)
-
-✍️ 16,138 lines written by AI, 68 lines written by hand (99.58% AI-written)
-
-🔤 23,471,883 Input Tokens, 1,211,300 Output Tokens
-
-💵 $637.90 Estimated AI Cost This Week
-
-🧠 44 AI Sessions, 288 AI Prompts
-
-Deepseek                 15,364 lines        ███████████████████████░░   92.35 % 
-KiloCode                 1,181 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Opencode-Cli             62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Nemotron                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-S                        10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📄 Detailed Prompter — average 1,005 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -186,7 +110,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 17:21:37 UTC
+ Last Updated on 15/08/2026 17:46:47 UTC
 <!--END_SECTION:waka-->
 
 ---
