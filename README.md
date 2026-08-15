@@ -94,6 +94,83 @@ const trisno = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.10%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                176 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
+🌆 Daytime                165 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌃 Evening                130 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Wednesday                101 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Thursday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Sunday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               16 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.02 % 
+Markdown                 11 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+JSON                     7 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Dart                     6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Kotlin                   2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+
+🔥 Editors: 
+Zed                      52 hrs 1 min        ████████████████████████░   95.42 % 
+OpenCode                 2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+CLI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+
+🐱‍💻 Projects: 
+kyyff-injector           31 hrs 47 mins      ███████████████░░░░░░░░░░   58.32 % 
+portofolio               10 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+goelf                    6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+3scode                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+my-mcp-opencode          1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+
+💻 Operating System: 
+Linux                    46 hrs 20 mins      █████████████████████░░░░   85.01 % 
+WSL                      8 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 48 hrs 18 mins (88.61%)
+
+✍️ 32,077 lines written by AI, 148 lines written by hand (99.54% AI-written)
+
+🔤 36,564,926 Input Tokens, 2,513,268 Output Tokens
+
+💵 $1391.18 Estimated AI Cost This Week
+
+🧠 89 AI Sessions, 488 AI Prompts
+
+Deepseek                 28,945 lines        ██████████████████████░░░   88.26 % 
+KiloCode                 3,238 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+S                        536 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Opencode-Cli             56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Nemotron                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.54% of written lines came from AI
+📄 Detailed Prompter — average 1,188 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.55% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -110,7 +187,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 17:46:47 UTC
+ Last Updated on 15/08/2026 18:31:12 UTC
 <!--END_SECTION:waka-->
 
 ---
