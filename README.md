@@ -58,7 +58,6 @@ const trisno = {
 <!--RECENT_ACTIVITY:start-->
 1. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
 2. 🌿 Created branch `main` in [3scode/goelf](https://github.com/3scode/goelf)
-3. ⭐ Starred [WahyuS002/uploy](https://github.com/WahyuS002/uploy)
 <!--RECENT_ACTIVITY:end-->
 
 ---
