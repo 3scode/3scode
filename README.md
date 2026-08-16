@@ -57,7 +57,6 @@ const trisno = {
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
 1. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
-2. 🌿 Created branch `main` in [3scode/goelf](https://github.com/3scode/goelf)
 <!--RECENT_ACTIVITY:end-->
 
 ---
