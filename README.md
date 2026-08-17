@@ -85,9 +85,9 @@ const trisno = {
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -118,53 +118,52 @@ Sunday                   112 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               16 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Markdown                 11 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Dart                     10 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-JSON                     6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Kotlin                   2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 19 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+TypeScript               17 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Dart                     11 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+JSON                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Kotlin                   2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-Zed                      56 hrs 21 mins      █████████████████████████   98.34 % 
-OpenCode                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-CLI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Zed                      63 hrs 35 mins      █████████████████████████   98.86 % 
+OpenCode                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+CLI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-kyyff-injector           36 hrs 53 mins      ████████████████░░░░░░░░░   64.37 % 
-portofolio               10 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-kyy-injector             5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-my-mcp-opencode          1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-kyytopup                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+kyyff-injector           36 hrs 53 mins      ██████████████░░░░░░░░░░░   57.36 % 
+kyy-injector             16 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+portofolio               10 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Unknown Project          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+portofolio-blog          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    57 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    64 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 18 mins (89.53%)
+⏱ AI Coding Time: 58 hrs 32 mins (91.01%)
 
-✍️ 32,566 lines written by AI, 143 lines written by hand (99.56% AI-written)
+✍️ 33,891 lines written by AI, 143 lines written by hand (99.58% AI-written)
 
-🔤 39,207,653 Input Tokens, 3,304,639 Output Tokens
+🔤 120,866,615 Input Tokens, 4,099,724 Output Tokens
 
-💵 $1838.34 Estimated AI Cost This Week
+💵 $2462.74 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 510 AI Prompts
+🧠 115 AI Sessions, 543 AI Prompts
 
-Deepseek                 30,475 lines        ██████████████████████░░░   88.93 % 
-KiloCode                 3,238 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-S                        535 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Deepseek                 32,064 lines        ██████████████████████░░░   89.42 % 
+KiloCode                 3,238 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+S                        535 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Nemotron                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Hy                       1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📄 Detailed Prompter — average 1,104 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.58% of written lines came from AI
+📄 Detailed Prompter — average 1,106 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +182,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/3scode/3scode/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 17:34:47 UTC
+ Last Updated on 17/08/2026 18:40:57 UTC
 <!--END_SECTION:waka-->
 
 ---
