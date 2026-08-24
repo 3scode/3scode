@@ -56,8 +56,9 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
-2. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+1. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
+2. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
+3. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 <!--RECENT_ACTIVITY:end-->
 
 ---
