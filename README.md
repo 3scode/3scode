@@ -56,8 +56,8 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-2. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
+1. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
+2. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
 3. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
 4. 🌿 Created branch `dev` in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
 5. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
