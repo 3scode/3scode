@@ -56,9 +56,9 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
-2. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-3. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
+1. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
+2. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+3. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
 4. 🌿 Created branch `master` in [3scode/flowdoro](https://github.com/3scode/flowdoro)
 5. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
 6. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
