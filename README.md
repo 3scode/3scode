@@ -56,16 +56,16 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
-2. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
-3. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-4. 🌿 Created branch `master` in [3scode/flowdoro](https://github.com/3scode/flowdoro)
-5. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-6. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
-7. 🌿 Created branch `dev` in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
-8. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
-9. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
-10. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+1. 🌿 Created branch `main` in [3scode/flowdoro-nextjs](https://github.com/3scode/flowdoro-nextjs)
+2. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
+3. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+4. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
+5. 🌿 Created branch `master` in [3scode/flowdoro](https://github.com/3scode/flowdoro)
+6. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
+7. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
+8. 🌿 Created branch `dev` in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
+9. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
+10. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
 <!--RECENT_ACTIVITY:end-->
 
 ---
