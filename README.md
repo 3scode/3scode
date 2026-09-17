@@ -56,16 +56,16 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🌿 Created branch `main` in [3scode/flowdoro-nextjs](https://github.com/3scode/flowdoro-nextjs)
-2. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
-3. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
-4. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-5. 🌿 Created branch `master` in [3scode/flowdoro](https://github.com/3scode/flowdoro)
-6. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-7. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
-8. 🌿 Created branch `dev` in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
-9. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
-10. 🚀 Pushed 0 commit in [3scode/3scode](https://github.com/3scode/3scode)
+1. 🌿 Created branch `local` in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
+2. 🚀 Pushed 0 commit in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
+3. 🌿 Created branch `main` in [3scode/flowdoro-nextjs](https://github.com/3scode/flowdoro-nextjs)
+4. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
+5. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+6. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
+7. 🌿 Created branch `master` in [3scode/flowdoro](https://github.com/3scode/flowdoro)
+8. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
+9. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
+10. 🌿 Created branch `dev` in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
 <!--RECENT_ACTIVITY:end-->
 
 ---
