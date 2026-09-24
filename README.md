@@ -65,7 +65,6 @@ const trisno = {
 7. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
 8. 🌿 Created branch `master` in [3scode/flowdoro](https://github.com/3scode/flowdoro)
 9. 🌿 Created branch `master` in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
-10. 🚀 Pushed 0 commit in [3scode/web-ytdl](https://github.com/3scode/web-ytdl)
 <!--RECENT_ACTIVITY:end-->
 
 ---
