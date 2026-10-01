@@ -62,7 +62,6 @@ const trisno = {
 4. 🚀 Pushed 0 commit in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
 5. 🌿 Created branch `main` in [3scode/flowdoro-nextjs](https://github.com/3scode/flowdoro-nextjs)
 6. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
-7. 🚀 Pushed 0 commit in [3scode/app-finansialku](https://github.com/3scode/app-finansialku)
 <!--RECENT_ACTIVITY:end-->
 
 ---
