@@ -61,7 +61,6 @@ const trisno = {
 3. 🌿 Created branch `main` in [3scode/smk-inventory](https://github.com/3scode/smk-inventory)
 4. 🌿 Created branch `local` in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
 5. 🚀 Pushed 0 commit in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
-6. 🌿 Created branch `main` in [3scode/flowdoro-nextjs](https://github.com/3scode/flowdoro-nextjs)
 <!--RECENT_ACTIVITY:end-->
 
 ---
