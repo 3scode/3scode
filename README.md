@@ -61,8 +61,6 @@ const trisno = {
 3. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
 4. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
 5. 🌿 Created branch `main` in [3scode/smk-inventory](https://github.com/3scode/smk-inventory)
-6. 🌿 Created branch `local` in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
-7. 🚀 Pushed 0 commit in [3scode/smkbbmkdh](https://github.com/3scode/smkbbmkdh)
 <!--RECENT_ACTIVITY:end-->
 
 ---
