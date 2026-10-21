@@ -60,7 +60,6 @@ const trisno = {
 2. 🌿 Created branch `main` in [3scode/evoting-ipm](https://github.com/3scode/evoting-ipm)
 3. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
 4. 🚀 Pushed 0 commit in [3scode/flowdoro](https://github.com/3scode/flowdoro)
-5. 🌿 Created branch `main` in [3scode/smk-inventory](https://github.com/3scode/smk-inventory)
 <!--RECENT_ACTIVITY:end-->
 
 ---
