@@ -62,7 +62,6 @@ const trisno = {
 4. 🌿 Created branch `main` in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
 5. 🚀 Pushed 0 commit in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
 6. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
-7. 🚀 Pushed 0 commit in [3scode/py-ytdl](https://github.com/3scode/py-ytdl)
 <!--RECENT_ACTIVITY:end-->
 
 ---
