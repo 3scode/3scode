@@ -56,12 +56,13 @@ const trisno = {
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 0 commit in [3scode/form-ki](https://github.com/3scode/form-ki)
-2. 🌿 Created branch `prod` in [3scode/form-ki](https://github.com/3scode/form-ki)
-3. 📢 Made [3scode/zsh](https://github.com/3scode/zsh) public
-4. 🌿 Created branch `main` in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
-5. 🚀 Pushed 0 commit in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
-6. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
+1. ⭐ Starred [ShadowySphinX/Opencode-Unlimited-Limit-Bypass-](https://github.com/ShadowySphinX/Opencode-Unlimited-Limit-Bypass-)
+2. 🚀 Pushed 0 commit in [3scode/form-ki](https://github.com/3scode/form-ki)
+3. 🌿 Created branch `prod` in [3scode/form-ki](https://github.com/3scode/form-ki)
+4. 📢 Made [3scode/zsh](https://github.com/3scode/zsh) public
+5. 🌿 Created branch `main` in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
+6. 🚀 Pushed 0 commit in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
+7. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
 <!--RECENT_ACTIVITY:end-->
 
 ---
