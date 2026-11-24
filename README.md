@@ -63,7 +63,6 @@ const trisno = {
 5. 📢 Made [3scode/zsh](https://github.com/3scode/zsh) public
 6. 🌿 Created branch `main` in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
 7. 🚀 Pushed 0 commit in [3scode/prelovedsaerawatt](https://github.com/3scode/prelovedsaerawatt)
-8. 🚀 Pushed 0 commit in [3scode/my-opencode-skills](https://github.com/3scode/my-opencode-skills)
 <!--RECENT_ACTIVITY:end-->
 
 ---
